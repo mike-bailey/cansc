@@ -1,6 +1,6 @@
 <?php
 
-$user="root";
-$password="JamiDB123!";
-$host="localhost";
+$user="";
+$password="";
+$host="";
 ?>
